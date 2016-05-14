@@ -4,8 +4,15 @@
         <description><![CDATA[jeremy.odell]]></description>
         <link>https://thegrid.ai/jeremy-odell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 19:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 19:29:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeremy-odell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Angular 2]]></title>
+            <description><![CDATA[<article><h1>Angular 2</h1><p>Angular is a development platform for building mobile and desktop web applications</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd74e980bd833e24f0d585da13c64ea5ed2872e.png"></article>]]></description>
+            <link>https://angular.io/resources/</link>
+            <guid isPermaLink="false">3f0369f0-0b6a-4e48-a8cf-3c918fcb1a22</guid>
+            <pubDate>Sat, 14 May 2016 19:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Best News from Angular's ng-conf 2016]]></title>
             <description><![CDATA[<article><h1>The Best News from Angular's ng-conf 2016</h1><p>ng-conf 2016 brought a ton of great news and announcements ng-conf 2016 in Salt Lake City brought a lot of incredible announcements. Approximately 1,500 Angular developers on site (including our own Chris Sevilleja, Holly Lloyd, Ado Kukic, and Ryan Chenkie) and even more all over the world tuned in to see some great talks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9846784961bba5e5b666ce38ded33ea286afc98a.png"></article>]]></description>
